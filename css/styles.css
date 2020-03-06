@@ -36,7 +36,6 @@ a{
 }
 .bottom-container{
   background-color: #c5ded7;
-
 }
 .bottom-cloud{
   position: absolute;
@@ -85,7 +84,21 @@ hr{
 }
 .contact-me{
   width: 50%;
-  margin: 50px auto 50px auto;
-  line-height: 2;
+  margin: 35px auto 35px auto;
+  line-height: 1.5;
   text-align: center;
+}
+.footer-link{
+  padding-right: 20px;
+}
+.button {
+    display: block;
+    width: 115px;
+    height: 23px;
+    background: #66BFBF;
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+    align-items: center;
+    text-decoration: none;
 }
